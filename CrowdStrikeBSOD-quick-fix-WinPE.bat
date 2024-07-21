@@ -2,10 +2,10 @@
 title CrowdStrikeBSOD-quick-fix-WinPE by phutapong@gmail.com
 :: BY: www.linkedin.com/in/phutapong-suanyim-b217b710
 color 0A
+echo CrowdStrikeBSOD-quick-fix-WinPE.bat
 echo =============================================
 echo          Welcome to CrowdStrikeBSOD-quick-fix-WinPE
 
-## CrowdStrikeBSOD-quick-fix-WinPE.bat
 echo for those affected by Crowdstrike Falcon Sensor Update problem
 echo          this is not official fix
 echo =============================================
